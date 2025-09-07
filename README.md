@@ -1,15 +1,5 @@
 # GAMEFORGE AI
 
-<div align="center">
-  <img src="/public/pc.gif" alt="Aptos MiniHub Logo" width="200"/>
-  
-  <h3>Launch, Play, Innovate: AI Minigames on Aptos</h3>
-
-  [![GitHub](https://img.shields.io/badge/GitHub-ombaviskar18-blue?style=flat&logo=github)](https://github.com/ombaviskar18)
-  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-  [![Aptos](https://img.shields.io/badge/Blockchain-Aptos-purple.svg)](https://aptoslabs.com/)
-</div>
-
 ## 🚀 Overview
 
 GAMEFORGE AI  is a revolutionary platform that combines AI-powered game generation with blockchain technology. It enables users to create, play, and monetize unique minigames on the Aptos blockchain, featuring an innovative AI agent system for game generation and interaction.

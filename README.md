@@ -1,4 +1,4 @@
-# 🎮 Aptos MiniHub
+# GAMEFORGE AI
 
 <div align="center">
   <img src="/public/pc.gif" alt="Aptos MiniHub Logo" width="200"/>
@@ -12,7 +12,7 @@
 
 ## 🚀 Overview
 
-Aptos MiniHub is a revolutionary platform that combines AI-powered game generation with blockchain technology. It enables users to create, play, and monetize unique minigames on the Aptos blockchain, featuring an innovative AI agent system for game generation and interaction.
+GAMEFORGE AI  is a revolutionary platform that combines AI-powered game generation with blockchain technology. It enables users to create, play, and monetize unique minigames on the Aptos blockchain, featuring an innovative AI agent system for game generation and interaction.
 
 ## ✨ Core Features
 
@@ -35,19 +35,19 @@ Aptos MiniHub is a revolutionary platform that combines AI-powered game generati
 - Real-time collaboration
 - APIs/SDK integration
 
-### 💎 Tokenization and Monetization (Upcoming)
+### 💎 Tokenization and Monetization 
 - APTOS integration
 - Co-creation rewards
 - Liquidity pools
 - DAO governance
 
-### 🏆 Leaderboard Rankings (Upcoming)
+### 🏆 Leaderboard Rankings
 - ELO rating system
 - Seasonal rewards
 - NFT trophies
 - Social sharing
 
-### 📱 Telegram Integration (Upcoming)
+### 📱 Telegram Integration
 - AI-assisted game design
 - Seamless Telegram platform integration
 - Real-time analytics
@@ -82,9 +82,7 @@ Aptos MiniHub is a revolutionary platform that combines AI-powered game generati
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/aptos-minihub.git
-cd aptos-minihub
-```
+https://github.com/SomeshTalligeriDEV/Aptos_GameForge-Ai
 
 2. **Install dependencies**
 ```bash
@@ -109,28 +107,4 @@ yarn dev
 5. **Open your browser**
 Navigate to `http://localhost:3000`
 
-## 🤝 Contributing
 
-We welcome contributions! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌟 Connect With Us
-
-- [GitHub](https://github.com/ombaviskar18)
-- [Telegram Bot](https://t.me/AptosMinigamesBot)
-- [Aptos Network](https://aptoslabs.com/)
-
----
-
-<div align="center">
-  <strong>Built with ❤️ by the Aptos MiniHub Team</strong>
-</div>
